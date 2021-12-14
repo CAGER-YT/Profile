@@ -18,7 +18,7 @@
 		<h2>Contact</h2>
 		<p>If you'd like to connect with me, you can DM on Discord. My DMs are open for users I share a server with, if you don't share a server, send me a friend request.</p>
 		<ul>
-			<li>Tag: <code>CAGER YT#1530/code></li>
+			<li>Tag: <code>CAGER YT#1530</code></li>
 			<li>ID: <code>920334238165921862</code></li>
 		</ul>
 	</p>
