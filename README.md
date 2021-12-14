@@ -6,8 +6,12 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="CAGER's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=CAGER-YT&show_icons=true&count_private=true&theme=synthwave"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="CAGER's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=CAGER-YT&langs_count=8&layout=compact&theme=synthwave" /></a>
 <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CAGER-YT&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAGER-YT&langs_count=8)](https://github.com/CAGER-YT/github-readme-stats)
+<details>
+	<summary>📋 View Streak</summary>
+	<p align="center">
+		[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CAGER-YT&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+	</p>
+</details>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CAGER-YT&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!-- Actual text -->
 
