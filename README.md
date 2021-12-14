@@ -9,7 +9,7 @@
 <details>
 	<summary>📋 View Streak</summary>
 	<p align="center">
-		<a href="https://github.com/DenverCoder1/github-readme-streak-stats"> <img title="streak" alt="CAGER's Streak" src="http://github-readme-streak-stats.herokuapp.com?user=CAGER-YT&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats" /> </a>
+		<a href="https://github.com/DenverCoder1/github-readme-streak-stats"> <img title="streak" alt="CAGER's Streak" src="http://github-readme-streak-stats.herokuapp.com?user=CAGER-YT&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)" /> </a>
 	</p>
 </details>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CAGER-YT&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
