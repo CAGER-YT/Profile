@@ -13,23 +13,16 @@
 		</a>
 	</p>
 </details>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CAGER-YT&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://images.app.goo.gl/Tj4XCac8mTBSogBf8.png
-[3.3]:
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/CAGER_YT?s=09
-[2]: https://www.linkedin.com/in/CAGERYT
-<details>
-  <summary>wll</summary>
- </details>
+<summary>📬 Contact</summary>
+	<p align="left">
+		<h2>Contact</h2>
+		<p>If you'd like to connect with me, you can DM on Discord. My DMs are open for users I share a server with, if you don't share a server, send me a friend request.</p>
+		<ul>
+			<li>Tag: <code>CAGER YT#1530/code></li>
+			<li>ID: <code>920334238165921862</code></li>
+		</ul>
+	</p>
+</details>
 <!---
 CAGER-YT/CAGER-YT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
