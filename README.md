@@ -1,6 +1,8 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there,+I'm+CAGER-YT!&center=true&width=380&height=45"> </p>
-<a href="https://github.com/CAGER-YT"> <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/CAGER-YT?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me" /></a>
+<p align="center">
+  <a href="https://github.com/CAGER-YT"> <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/CAGER-YT?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me" /></a>
 </p>
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CAGER-YT&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAGER-YT&langs_count=8)](https://github.com/CAGER-YT/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CAGER-YT&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
