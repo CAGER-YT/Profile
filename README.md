@@ -3,8 +3,8 @@
   <a href="https://github.com/CAGER-YT"> <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/CAGER-YT?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me" /></a>
 </p>
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="CAGER's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=CAGER-YT&show_icons=true&count_private=true&theme=radical_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="CAGER's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=CAGER-YT&langs_count=8&layout=compact&theme=radical_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="CAGER's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=CAGER-YT&show_icons=true&count_private=true&theme=gruvbox_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="CAGER's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=CAGER-YT&langs_count=8&layout=compact&theme=gruvbox_border=true&bg_color=0D1117" /></a>
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CAGER-YT&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAGER-YT&langs_count=8)](https://github.com/CAGER-YT/github-readme-stats)
