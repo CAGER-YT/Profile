@@ -25,7 +25,6 @@
 			<li>ID: <code>920334238165921862</code></li>
 		</ul>
 	</p>
-</details>
 <summary>Programming</summary>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -59,7 +58,16 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
-
+<summary>📬 Contact</summary>
+	<p align="left">
+		<h2>Contact</h2>
+		<p>If you'd like to connect with me, you can DM on Discord. My DMs are open for users I share a server with, if you don't share a server, send me a friend request.</p>
+		<ul>
+			<li>Tag: <code>CAGER YT#1530</code></li>
+			<li>ID: <code>920334238165921862</code></li>
+			<a href="https://discord.gg/264kaArc"> <img alt="Join My Server" title="Join My Server" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+		</ul>
+	</p>
 <!---
 CAGER-YT/CAGER-YT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
