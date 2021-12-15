@@ -13,19 +13,13 @@
 		</a>
 	</p>
 </details>
-<summary>📋 View Projects</summary>
+<details>
+<summary>View Projects</summary>
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CAGER-YT&repo=Tourist_spots&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CAGER-YT&repo=History_info&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-<summary>📬 Contact</summary>
-	<p align="left">
-		<h2>Contact</h2>
-		<p>If you'd like to connect with me, you can DM on Discord. My DMs are open for users I share a server with, if you don't share a server, send me a friend request.</p>
-		<ul>
-			<li>Tag: <code>CAGER YT#1530</code></li>
-			<li>ID: <code>920334238165921862</code></li>
-		</ul>
-	</p>
-<summary>Programming</summary>
+</details>
+<details>
+	<summary>Programming</summary>
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -49,6 +43,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
+	</details>
 <summary>📬 Contact</summary>
 	<p align="left">
 		<h2>Contact</h2>
